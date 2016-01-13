@@ -1,9 +1,10 @@
-# TexturePacker
+TexturePacker
+
 Small project to pack textures into a texture atlas.
 
 Tutorial : http://www.glusoft.com/tuto/how-to-make-sprite-sheets-generator.php
 
-Library used: 
-SFML
-rapidXML
+Libraries used 
+SFML : http://www.sfml-dev.org/
+rapidXML : http://rapidxml.sourceforge.net/
 
