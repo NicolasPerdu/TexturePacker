@@ -2,7 +2,7 @@ TexturePacker
 
 Small project to pack textures into a texture atlas.
 
-Tutorial : http://www.glusoft.com/tuto/how-to-make-sprite-sheets-generator.php
+Tutorial : https://glusoft.com/sfml-tutorials/sprite-sheet-generator/
 
 Libraries used 
 SFML : http://www.sfml-dev.org/
